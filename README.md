@@ -25,3 +25,8 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+
+screens:
+![image](https://github.com/urtaav/angular-defer-material-tabs/assets/30246385/4caaa921-db91-438a-b941-76a4a561fe8a)
